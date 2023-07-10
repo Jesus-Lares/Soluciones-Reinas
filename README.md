@@ -21,7 +21,7 @@ Para un tablero de 8x8 existen 92 soluciones, esta es una de ellas
 
 ## Instalacion
 
-Este projecto requiere tener python junto con la libreria de `numpy` la cual servira para generar una matriz de ceros. Posterior a esto, simplemente abre la carpeta en la terminal y corre el comando `python SolucionesReinas.py`
+Este projecto requiere tener `python` junto con la libreria de `numpy` la cual servira para generar una matriz de ceros. Posterior a esto, simplemente abre la carpeta en la terminal y corre el comando `python SolucionesReinas.py`
 
 ## Contacto
 
