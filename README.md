@@ -17,7 +17,7 @@ El problema de las ocho reinas es el problema de colocar ocho reinas en un table
 
 Para un tablero de 8x8 existen 92 soluciones, esta es una de ellas
 
-![Imagen de solucion 8x8](https://github.com/Jesus-Lares/Algoritmo-Prim/blob/main/n-queens-problems.png)
+![Imagen de solucion 8x8](https://github.com/JesusLares/Soluciones-Reinas/blob/main/n-queens-problems.png)
 
 ## Instalacion
 
